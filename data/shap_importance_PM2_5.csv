@@ -1,0 +1,19 @@
+Feature,Mean_Abs_SHAP
+PM2.5_lag_1,12.405862
+Temperature,1.757162
+Humidity,1.404461
+SO2_lag_1,1.27654
+Speed_lag_1,1.094906
+CO_lag_1,1.083078
+O3_lag_1,0.739352
+Humidity_lag_1,0.573136
+y_km,0.546029
+PM10_lag_1,0.425179
+NO2_lag_1,0.385796
+Temperature_lag_1,0.382958
+Congestion Level_lag_1,0.258487
+Dew Point,0.131885
+x_km,0.079522
+Wind Speed_lag_1,0.040237
+Wind Speed,0.02517
+Dew Point_lag_1,0.00186
